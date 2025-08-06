@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Link } from "react-router-dom";
-import { ArrowRight, Target, Calendar, Award, BarChart3, Trophy, Info, Mail, Home as HomeIcon } from "lucide-react";
+import { ArrowRight, Target, Calendar, Award, BarChart3, Trophy, Info, Mail, Home as HomeIcon, StickyNote } from "lucide-react";
 
 const Home = () => {
   // Navbar links
